@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\tableau 8 (énumération)\tableau 8 (énumération)\obj\Debug\tableau 8 (énumération).csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\tableau 8 (énumération)\tableau 8 (énumération)\bin\Debug\tableau 8 (énumération).exe.config
+C:\Users\Dell\source\repos\tableau 8 (énumération)\tableau 8 (énumération)\bin\Debug\tableau 8 (énumération).exe
+C:\Users\Dell\source\repos\tableau 8 (énumération)\tableau 8 (énumération)\bin\Debug\tableau 8 (énumération).pdb
+C:\Users\Dell\source\repos\tableau 8 (énumération)\tableau 8 (énumération)\obj\Debug\tableau 8 (énumération).exe
+C:\Users\Dell\source\repos\tableau 8 (énumération)\tableau 8 (énumération)\obj\Debug\tableau 8 (énumération).pdb
